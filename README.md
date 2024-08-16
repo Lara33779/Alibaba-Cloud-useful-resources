@@ -5,6 +5,7 @@ Topic1: Securing Cloud Environments Data Encryption, Zero Trust Security, and IA
 Securing cloud environments in today's digital landscape is more crucial than ever. This involves protecting sensitive data through robust encryption, implementing Zero Trust Security principles, and managing access with Identity and Access Management (IAM) solutions. Together, these strategies form a comprehensive approach to safeguarding your cloud infrastructure from emerging threats and ensuring your data remains secure.
 
 ●	Data Encryption
+
 ○	Securing Ends with Data Encryption for the Cloud
 The article discusses the significance of data encryption in protecting sensitive and private data for businesses, particularly in cloud-native environments. It highlights the importance of implementing zero-trust security measures with hybrid and multi-cloud architectures to secure data at rest and in transit. The piece emphasizes the role of data encryption in safeguarding against cyberattacks, which can cause substantial damage to any industry.
 
@@ -21,6 +22,7 @@ Alibaba Cloud's KMS offers various encryption keys: Default Keys are exclusive f
 To ensure data security when stored on the cloud, enterprises should encrypt static data, particularly in ECS cloud disks, OSS, RDS, and cloud databases. Alibaba Cloud offers disk storage encryption services with key management through its Key Management Service (KMS). The storage encryption feature employs 256-bit encryption (AES256) to safeguard sensitive data. A list of cloud services supporting server-integrated static data encryption and their respective encryption procedures is available. Users can utilize the complimentary default key provided by Alibaba Cloud for server encryption or opt for a custom Bring Your Own Key (BYOK) method for enhanced data protection. For BYOK implementation, refer to the guide on importing key material into a symmetric key.
 
 ●	Zero Trust Security: 
+
 ○	Overview of zero trust security
 Zero Trust is a security model that denies implicit trust within and beyond network boundaries. Alibaba Cloud's Service Mesh (ASM) implements Zero Trust security for cloud-native applications by integrating authentication and authorization features, previously coded within applications, providing out-of-the-box configuration and immediate policy updates. The microservices architecture, while scalable and agile, increases security risks due to its distributed nature. Traditional network perimeter security is insufficient; hence, internal network communication must also be secured, making Zero Trust crucial.
 
@@ -28,6 +30,7 @@ Zero Trust is a security model that denies implicit trust within and beyond netw
 Nacos, a dynamic naming and configuration service, is pivotal for managing sensitive data in complex modern systems. Common security risks include exposing Nacos to the internet without proper authentication, leading to vulnerabilities and potential cyber-attacks. To mitigate these risks, Nacos adopts zero-trust security principles, focusing on identity management, authentication, access control, transmission security, and continuous behavior monitoring.
 
 ●	IAM
+
 ○	A New Chapter in Modernizing Security with Cloud-Native Technologies: Identity Management
 The summary of the article discusses the importance of the human element in cybersecurity, emphasizing that humans are both the core strength and potential vulnerability in security systems. Identity and Access Management (IAM) is seen as a key component of zero-trust strategies, with cloud-native IAM services gaining prominence. These services offer seamless deployment and ease of use, providing comprehensive cybersecurity controls and network isolation measures. Cloud service providers like Alibaba Cloud facilitate a secure transition to the cloud for their customers, offering integrated security capabilities and real-time monitoring. The principle of least privilege (PoLP) is advocated, assigning different privilege settings to user accounts based on their functional requirements. Internal abnormal behavior detection systems are recommended to identify and prevent unauthorized actions, as demonstrated by the Weimob incident. Establishing effective baseline security policies requires an organization's strong and independent security team.
 

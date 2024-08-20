@@ -20,7 +20,7 @@ Alibaba Cloud's Object Storage Service (OSS) offers robust data protection throu
 
 - [Transparent data encryption](https://www.alibabacloud.com/help/polardb/polardb-for-postgresql/tde?utm_content=g_1000396719)
 
-This topic describes transparent data encryption (TDE), which encryps data at rest, safeguarding sensitive database files on disks against potential attackers. It is available for PolarDB for PostgreSQL clusters running specific engine versions. TDE allows authenticated users to access encrypted data without modifying application code or configurations for decryption, preventing unauthorized access to sensitive information in tablespace, disks, and database backups.
+This topic describes transparent data encryption (TDE), which encrypts data at rest, safeguarding sensitive database files on disks against potential attackers. It is available for PolarDB for PostgreSQL clusters running specific engine versions. TDE allows authenticated users to access encrypted data without modifying application code or configurations for decryption, preventing unauthorized access to sensitive information in tablespace, disks, and database backups.
 
 
 
@@ -52,7 +52,7 @@ Nacos, a dynamic naming and configuration service, is pivotal for managing sensi
 
 ## I AM
 
-- [A New Chapter in Modernizing Security with Cloud-Native Technologies: Identity Management](https://www.alibabacloud.com/blog/596394?utm_content=g_1000396724
+- [A New Chapter in Modernizing Security with Cloud-Native Technologies: Identity Management](https://www.alibabacloud.com/blog/596394?utm_content=g_1000396724)
 
 The summary of the article discusses the importance of the human element in cybersecurity, emphasizing that humans are both the core strength and potential vulnerability in security systems. Identity and Access Management (IAM) is seen as a key component of zero-trust strategies, with cloud-native IAM services gaining prominence. These services offer seamless deployment and ease of use, providing comprehensive cybersecurity controls and network isolation measures. Cloud service providers like Alibaba Cloud facilitate a secure transition to the cloud for their customers, offering integrated security capabilities and real-time monitoring. The principle of least privilege (PoLP) is advocated, assigning different privilege settings to user accounts based on their functional requirements. Internal abnormal behavior detection systems are recommended to identify and prevent unauthorized actions, as demonstrated by the Weimob incident. Establishing effective baseline security policies requires an organization's strong, independent security team.
 

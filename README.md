@@ -7,11 +7,13 @@ In today's digital landscape, securing cloud environments is more crucial than e
 
 ## Data Encryption
 - [Securing Ends with Data Encryption for the Cloud](https://www.alibabacloud.com/blog/597403?utm_content=g_1000396717)
+- 
 The article discusses the significance of data encryption in protecting sensitive and private data for businesses, particularly in cloud-native environments. It highlights the importance of implementing zero-trust security measures with hybrid and multi-cloud architectures to secure data both at rest and in transit. The piece emphasizes the role of data encryption in safeguarding against cyberattacks, which can cause substantial damage to any industry.
 
 
 
 - [Data encryption](https://www.alibabacloud.com/help/oss/security-and-compliance/data-encryption-2?utm_content=g_1000396718)
+
 Alibaba Cloud's Object Storage Service (OSS) offers robust data protection through server-side and client-side encryption, complemented by encryption in transit via HTTPS over SSL/TLS. Server-side encryption safeguards data at rest using either KMS-managed keys (SSE-KMS), where Key Management Service (KMS) encrypts and decrypts data using customer master keys (CMKs), or OSS-managed keys (SSE-OSS), where OSS handles key generation and management. SSE-KMS is ideal for high-volume encryption tasks due to its efficiency and cost-effectiveness, while SSE-OSS suits bulk object encryption. KMS ensures key privacy, integrity, and availability, facilitating custom encryption function development. Client-side encryption allows users to encrypt objects locally before uploading, maintaining control over CMK integrity and validity. Two CMK types are supported: KMS-managed and customer-managed.
 
 

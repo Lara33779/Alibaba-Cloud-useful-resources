@@ -1,5 +1,13 @@
-## AI Technical Resources Collection
+## AI Technical Resources Collection - Machine Learning Blogs and Articles
+
+### Description:
+
+This folder compiles a curated selection of high-quality blogs and articles related to machine learning, covering a wide range of topics from foundational concepts to cutting-edge techniques. Whether you're a beginner just starting your journey in machine learning or an experienced developer looking to deepen your knowledge of the latest models and technologies, this collection offers valuable resources for your learning. Inside, you'll find insightful discussions on supervised learning, unsupervised learning, deep learning, model optimization, feature engineering, and more. Additionally, practical tutorials and project examples using popular frameworks like TensorFlow and PyTorch are included.
+
+Each blog is accompanied by a brief description to help you quickly locate the content you need. This collection not only builds a strong theoretical foundation but also offers hands-on experience and insights into real-world applications, accelerating your growth in the field of machine learning.
+
 ### Machine Learning Blogs and Articles
+
 
 [**What Is Machine Learning?**](https://www.alibabacloud.com/blog/597085?utm_content=g_1000397956)
 

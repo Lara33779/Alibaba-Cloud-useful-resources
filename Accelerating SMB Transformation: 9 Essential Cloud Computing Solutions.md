@@ -39,14 +39,21 @@ Strategies and technologies to enhance customer engagement, helping you build cl
 
 [Read More](https://medium.com/@lararoself/enhancing-customer-engagement-connecting-with-end-users-through-alibaba-cloud-tools-6a813d84c089?utm_content=g_1000398236)
 
-**Summary:** This blog discusses the importance of effective communication between businesses and customers in a data-saturated world, highlighting Alibaba Cloud's suite of tools designed to enhance customer engagement. It showcases how companies like Tao Kae Noi and SyZyGy successfully leveraged Alibaba Cloud's CRM, SMS, and chat services to navigate communication challenges and improve customer experiences, especially during the pandemic. Additionally, the blog illustrates HungryPanda's impressive growth through its partnership with Alibaba Cloud, emphasizing the value of utilizing multi-channel communication strategies to foster lasting relationships with customers.
+**Summary:** This blog discusses the importance of effective communication between businesses and customers in a data-saturated world, highlighting Alibaba Cloud's suite of tools designed to enhance customer engagement. It showcases how companies like Tao Kae Noi and SyZyGy successfully leveraged Alibaba Cloud's CRM, SMS, and chat services to navigate communication challenges and improve customer experiences, especially during the pandemic. Additionally, the blog illustrates HungryPanda's impressive growth through its partnership with Alibaba Cloud, emphasizing the value of utilizing multi-channel communication strategies to foster lasting customer relationships.
 
 ### [Data and Analytics](https://www.alibabacloud.com/campaign/data-analytics?utm_content=g_1000398296)
 Manage the data value chain and empower you to reinvent your business through data utilization
 
 [Read More](https://medium.com/@lararoself/empowering-smbs-the-impact-of-data-and-analytics-tools-in-cloud-computing-8e60f0462711?utm_content=g_1000398295)
 
-**Summary:** This blog introduces how small and medium-sized businesses can enhance operational capabilities and support growth through Alibaba Cloud's data and analytics tools, highlighting the advantages of cloud computing such as cost efficiency, scalability, real-time insights, and automation. By showcasing the case of Indofun, an Indonesian game provider, it demonstrates how these tools improve user experience and customer satisfaction while achieving efficient operations.
+**Summary:** This blog introduces how small and medium-sized businesses can enhance operational capabilities and support growth through Alibaba Cloud's data and analytics tools, highlighting the advantages of cloud computing such as cost efficiency, scalability, real-time insights, and automation. Showcasing the case of Indofun, an Indonesian game provider, demonstrates how these tools improve user experience and customer satisfaction while achieving efficient operations.
+
+### [Workspace on Cloud](https://www.alibabacloud.com/campaign/workspace-on-cloud?utm_content=g_1000398570)
+Empower your workspace with secure, open, and affordable cloud computers.
+
+[Read More](https://medium.com/@lararoself/what-you-need-to-know-about-empowering-your-smb-with-cloud-workspaces-1a9bf8239de1?utm_content=g_1000398576)
+
+**Summary:** This blog discusses how Alibaba Cloud's Workspace on Cloud solution helps small and medium-sized businesses (SMBs) enhance data security and team efficiency. With the rise of remote work, many SMBs face data security risks, and Alibaba Cloud’s Elastic Desktop Service (EDS) protects sensitive data and reduces data loss through advanced security technologies and centralized management. Additionally, cloud workspaces promote team collaboration and boost productivity, as demonstrated by ONG&ONG Group's successful implementation of high-performance virtual desktops. The blog also highlights the advantages of cloud solutions in cost control and flexibility, enabling businesses to quickly adapt to market changes.
 
 ### [Generative AI](https://www.alibabacloud.com/solutions/generative-ai?utm_content=g_1000398230)
 Stay tuned!

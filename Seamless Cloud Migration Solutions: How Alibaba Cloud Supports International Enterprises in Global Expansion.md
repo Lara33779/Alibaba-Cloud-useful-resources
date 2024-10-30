@@ -1,3 +1,5 @@
+<a href ="https://discord.gg/KPmq628K63?utm_content=g_1000398573"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
+
 In response to the cloud migration needs of the international market, Aliyun offers a range of internationalized and compatible products and services designed to help enterprises smoothly migrate workloads, data, and services from local data centers or other cloud platforms to Aliyun. The following are some key cloud migration-related products and solutions for multinational companies and enterprises with international business expansion needs.
 
 **[Cloud Migration Hub (CMH)](https://www.alibabacloud.com/product/cloud-migration-hub?utm_content=g_1000397040)**
@@ -86,3 +88,5 @@ Secure Identities: Create roles and accounts with limited permissions using Reso
 
 Monitor and Optimize: Continuously monitor and optimize resources for cost-effectiveness and performance.
 Alibaba Cloud offers various editions of Cloud Migration Service, each with different scopes of service, including feasibility analysis, cloud architecture design, migration solution design, and migration implementation. The service is tailored to meet different business requirements, from basic to premium editions, covering migration of systems, structured data, and unstructured data.
+
+<a href ="https://discord.gg/KPmq628K63?utm_content=g_1000398573"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>

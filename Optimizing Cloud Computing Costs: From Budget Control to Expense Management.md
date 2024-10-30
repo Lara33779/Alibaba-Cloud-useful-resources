@@ -1,3 +1,5 @@
+<a href ="https://discord.gg/KPmq628K63?utm_content=g_1000398573"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
+
 **Cost optimization** is crucial in cloud computing due to significant waste in enterprise cloud spending. Flexera's 2022 report shows 32% of cloud spending is wasted, up from 30% last year. Alibaba Cloud addresses this with its ACK FinOps solution, integrating FinOps principles and AI technology to offer comprehensive cost optimization tools. This solution enables full-link financial management, easy budget preparation, early warning for key indicators, and multi-dimensional cost analysis and optimization.
 
 [**Analyze, Manage, and Optimize Your Cloud Costs with Alibaba Cloud FinOps Solution**](https://www.alibabacloud.com/blog/601529?utm_content=g_1000397281)
@@ -35,6 +37,8 @@ Shanlie, with 13 years in IT, explores microservices' benefits and challenges in
 [**Budget management｜Hologres**](https://www.alibabacloud.com/help/hologres/user-guide/budget-management?utm_content=g_1000397289)
 
 Hologres Shared Cluster instances on Alibaba Cloud provide budget management through the Expenses and Costs console, crucial for monitoring and optimizing costs associated with the flexible pay-per-byte billing method. Users can set budgets, receive alerts for threshold breaches, and perform comparative analyses. Alerts are based on daily bills generated the next day and do not affect job execution. To set up, log into the console, go to 'Cost Management > Budget Management', and create a budget by defining parameters like name, scope, cycle, and amount. Configure alerts for actual costs with specific thresholds and notification methods before submitting for implementation.
+
+<a href ="https://discord.gg/KPmq628K63?utm_content=g_1000398573"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
 
 
 

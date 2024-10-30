@@ -1,3 +1,5 @@
+<a href ="https://discord.gg/KPmq628K63?utm_content=g_1000398573"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
+
 ## [Demystifying Generative AI: Insights into Technology and Applications](https://www.alibabacloud.com/blog/600263?utm_content=g_1000397847)
 
 _This article introduces Generative AI, discussing its benefits, pitfalls, and disruptive use cases across various industries._

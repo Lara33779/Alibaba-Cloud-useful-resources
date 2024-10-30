@@ -66,3 +66,4 @@ As a tech professional, your goal is to complete tasks and deliver long-term tec
 Our resource library will be your trusted ally if you’re looking for reliable tools and practical solutions to address your daily tech challenges. We invite you to explore these solutions, which will help you solve problems more swiftly, drive technological innovation, and enhance your enterprise’s competitiveness.
 
 ![https://discord.gg/KPmq628K63?utm_content=g_1000398573](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png)
+https://discord.gg/KPmq628K63?utm_content=g_1000398573

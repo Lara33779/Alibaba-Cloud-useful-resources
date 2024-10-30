@@ -1,6 +1,6 @@
 
 # Securing Cloud Environments Data Encryption, Zero Trust Security, and IAM Solutions
-
+<a href ="https://discord.gg/KPmq628K63?utm_content=g_1000398573"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
 In today's digital landscape, securing cloud environments is more crucial than ever. This involves protecting sensitive data through robust encryption, implementing Zero Trust Security principles, and managing access with Identity and Access Management (IAM) solutions. Together, these strategies form a comprehensive approach to safeguarding your cloud infrastructure from emerging threats and ensuring your data remains secure.
 
 ## Data Encryption
@@ -70,5 +70,7 @@ This summary outlines setting the account synchronization scope for applications
 - [Get Application Provisioning Scope](https://www.alibabacloud.com/help/idaas/eiam/developer-reference/api-eiam-2021-12-01-getapplicationprovisioningscope?utm_content=g_1000396727)
 
 The API operation queries the account synchronization scope for applications in Identity as a Service (IDaaS) Employee IAM (EIAM), aligning with the scope where developers can call DeveloperAPI for account management. For ease of use, debugging is recommended through OpenAPI Explorer, which automatically handles signature calculations. No authorization information is disclosed in the API. Request parameters include InstanceId and ApplicationId, both required for identifying the specific instance and application. Response parameters consist of requestId for tracking requests and ApplicationProvisioningScope detailing the synchronization scope, including a list of authorized organizational units. 
+
+<a href ="https://discord.gg/KPmq628K63?utm_content=g_1000398573"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
 
  

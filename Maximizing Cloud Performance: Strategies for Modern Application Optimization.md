@@ -1,4 +1,4 @@
-<a href ="https://discord.gg/KPmq628K63?utm_content=g_1000398573"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
+<a href ="https://discord.gg/KPmq628K63"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
 
 # Maximizing Cloud Performance: Strategies for Modern Application Optimization
 
@@ -62,4 +62,4 @@ The author suggests treating serverless as a mindset, prioritizing business logi
 ## Conclusion:
 Optimizing cloud performance is not just about speed—it’s about creating an efficient, scalable, and cost-effective cloud environment that supports your business goals. By implementing the strategies covered in this series, you’ll be better equipped to enhance application performance, reduce latency, and manage resources more effectively. As cloud technologies continue to evolve, staying ahead of performance challenges will ensure that your applications remain robust, responsive, and ready to meet the demands of your users. Stay tuned for more insights on maximizing your cloud investment.
 
-<a href ="https://discord.gg/KPmq628K63?utm_content=g_1000398573"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
+<a href ="https://discord.gg/KPmq628K63"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>

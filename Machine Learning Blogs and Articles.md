@@ -27,7 +27,7 @@ When building a machine learning model, we should avoid the 6 mistakes:
 5. Relying solely on AI model learning
 6. Make sure your AI model is unbiased
 
-<a href ="https://discord.gg/KPmq628K63?utm_content=g_1000398573"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
+<a href ="https://discord.gg/KPmq628K63"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
 
 [**Demystifying Common Machine Learning Terms**](https://www.alibabacloud.com/blog/593773?utm_content=g_1000397959)
 
@@ -53,7 +53,7 @@ This article explains how to use a single engine to implement the entire machine
 
 This tutorial looks at the Scikit-Learn library for machine learning and how you can use machine learning algorithms on Alibaba Cloud.
 
-<a href ="https://discord.gg/KPmq628K63?utm_content=g_1000398573"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
+<a href ="https://discord.gg/KPmq628K63"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
 
 
 

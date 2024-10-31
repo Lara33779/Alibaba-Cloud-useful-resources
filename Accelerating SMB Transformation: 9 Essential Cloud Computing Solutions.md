@@ -1,4 +1,4 @@
-<a href ="https://discord.gg/KPmq628K63?utm_content=g_1000398573"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
+<a href ="https://discord.gg/KPmq628K63"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
 
 As a developer or architect, you often face the challenge of creating efficient, scalable solutions for your enterprise within limited resources and time constraints. This is particularly true in small and medium-sized businesses (SMBs), where tech teams are typically smaller and must balance performance optimization, security, and compliance while being agile enough to adapt to rapid changes in business demands. These challenges can place considerable pressure on many tech professionals.
 
@@ -67,4 +67,4 @@ As a tech professional, your goal is to complete tasks and deliver long-term tec
 
 Our resource library will be your trusted ally if you’re looking for reliable tools and practical solutions to address your daily tech challenges. We invite you to explore these solutions, which will help you solve problems more swiftly, drive technological innovation, and enhance your enterprise’s competitiveness.
 
-<a href ="https://discord.gg/KPmq628K63?utm_content=g_1000398573"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
+<a href ="https://discord.gg/KPmq628K63"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>

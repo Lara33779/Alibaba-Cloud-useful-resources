@@ -45,6 +45,37 @@
 
 [**Resource Access Management**](https://www.alibabacloud.com/free?product_id=78ef1316-187b1359906-15a359c16f8?utm_content=g_1000399000)
 
+[**Action Trail**](https://www.alibabacloud.com/free?product_id=78ef1316-187b1359933-85ad24f7bc2?utm_content=g_1000399117)
+
+[**Security Center - Basic Edition**](https://www.alibabacloud.com/free?product_id=78ef1316-187b1359960-b7056e4e7fc?utm_content=g_1000399118)
+
+[**Machine Translation**](https://www.alibabacloud.com/free?product_id=78ef1316-187b13599bc-db3f4dd55d5?utm_content=g_1000399119)
+
+[**DataWorks**](https://www.alibabacloud.com/free?product_id=78ef1316-187b13599ec-ea01376f17b?utm_content=g_1000399120)
+
+[**Message Service**](https://www.alibabacloud.com/free?product_id=78ef1316-187b1359a4d-925e518d98d?utm_content=g_1000399121)
+
+[**Public DNS**](https://www.alibabacloud.com/free?product_id=78ef1316-187b135aeb9-fc1e5320a26?utm_content=g_1000399122)
+
+[**Cloud Monitor**](https://www.alibabacloud.com/free?product_id=78ef1316-187b135aeeb-85c1849511d?utm_content=g_1000399123)
+
+[**OpenAPI Explorer**](https://www.alibabacloud.com/free?product_id=78ef1316-187b135af1d-102ec8d32a3?utm_content=g_1000399124)
+
+[**Cloud Shell**](https://www.alibabacloud.com/free?product_id=78ef1316-187b135af50-2b5b6f7d268?utm_content=g_1000399125)
+
+[**HTTPDNS**](https://www.alibabacloud.com/free?product_id=78ef1316-187b135afee-a889bc10b65?utm_content=g_1000399126)
+
+[**Mobile Testing**](https://www.alibabacloud.com/free?product_id=78ef1316-187b135b023-ce620b491ec?utm_content=g_1000399127)
+
+[**Cloud Governance Center**](https://www.alibabacloud.com/free?product_id=78ef1316-187b135b059-6e1bf21131e?utm_content=g_1000399128)
+
+[**Cloud Migration Hub**](https://www.alibabacloud.com/free?product_id=78ef1316-187b135b08f-db7e12f6386?utm_content=g_1000399129)
+
+[**Push SDK**](https://www.alibabacloud.com/free?product_id=78ef1316-187b135b0c6-87e8ce650cf?utm_content=g_1000399130)
+
+[**Website lightweight customized solutions**](https://www.alibabacloud.com/free?product_id=78ef1316-18bb2b7fb0c-9b714d86b58?utm_content=g_1000399131)
+
+
 🔄 Alibaba Cloud free trial products are **continuously updated**! Remember to **stay tuned** and seize every opportunity to enhance your business! 👀
 
 <a href ="https://discord.gg/KPmq628K63"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrvg8ctk39c4j2umywln.png"></a>
